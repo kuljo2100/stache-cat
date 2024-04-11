@@ -1,0 +1,31 @@
+/* Define Font A */
+@font-face {
+    font-family: 'FontA';
+    src: url('./assets/fonts/bomber-escort-font/BomberEscortExpandedItalic-z8Xna.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+  }
+  
+  /* Define Font B */
+  @font-face {
+    font-family: 'FontB';
+    src: url('./assets/fonts/cute-meow-font/CuteMeow-51Pra.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+  }
+  
+  /* Define Font C */
+  @font-face {
+    font-family: 'FontC';
+    src: url('./assets/fonts/crypto-hunter-font/CryptoHunterSlantItalic-aYYrm.ttf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+  }
+  
+  /* Define Font D */
+  @font-face {
+    font-family: 'FontD';
+    src: url('./assets/fonts/just-sugar-font/JustSugar-aYYd5.ttf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+  }
